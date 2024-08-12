@@ -27,7 +27,7 @@ private WebElement signOutLink;
 
 
 
-
+//getters
 
 public WebElement getProductLink() {
 	return ProductLink;
